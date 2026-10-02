@@ -78,7 +78,7 @@ Existing project preview maintained in the portfolio repository.
 ### Author
 
 **Guilherme Ferreira**  
-Full Stack Developer
+React Developer
 
 [GitHub](https://github.com/fsgui89) · [LinkedIn](https://linkedin.com/in/guilhermefsdev) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/)
 
@@ -156,7 +156,7 @@ A imagem existente na seção Preview acima é mantida no repositório do portf�
 ### Autor
 
 **Guilherme Ferreira**  
-Full Stack Developer
+React Developer
 
 [GitHub](https://github.com/fsgui89) · [LinkedIn](https://linkedin.com/in/guilhermefsdev) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/)
 
